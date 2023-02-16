@@ -1,0 +1,7 @@
+{
+  "app_title": "Title",
+  "language": "Language",
+  "welcome_message": "Welcome",
+  "days_since_release": "it's been {{number_of_days}} days since this video was released",
+  "content":"Here you can find a step by step guide, which will unleash the full power of i18next in combination with locize.See how your developer experience with this localization workflow could look like. There's also the possibility to have an even more focused developer experience, with the help of the auto-machinetranslation workflow and the use of the save missing keys functionality, new keys not only gets added to locize automatically, while developing the app, but are also automatically translated into the target languages using machine translation (like Google Translate).Here you can find a step by step guide, which will unleash the full power of i18next in combination with locize. See how your developer experience with this localization workflow could look like.There's also the possibility to have an even more focused developer experience, with the help of the auto-machinetranslation workflow and the use of the save missing keys functionality, new keys not only gets added to locize automatically, while developing the app, but are also automatically translated into the target languages using machine translation (like Google Translate)."
+}
